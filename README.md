@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kasfiabinti24
 - 👀 I’m interested in Data Science and Software Testing
 - 🌱 I’m currently learning Software Testing
-- 📫 How to reach me kasfiaafrose2408@gmail.com
+- 📫 How to reach me kasfiaafrose0824@gmail.com
 - ⚡ Fun fact: Outside of tech, I love creating intricate henna designs!
 
 <!---
